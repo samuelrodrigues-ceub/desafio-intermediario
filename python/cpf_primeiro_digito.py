@@ -24,7 +24,7 @@ contrário disso:
 O primeiro dígito do CPF é 7
 """
 
-cpf = '74682489070'
+cpf = '78664276153'
 nove_digitos = cpf[:9]
 ########### Soma dos 9 primeiros dígitos
 resultado = 0
@@ -36,9 +36,8 @@ for digito in nove_digitos:
     resultado += (int(digito) * regressiva)
     regressiva -= 1
 
-# resultado = (resultado * 10) % 11
-resultado *= 10
-resultado %= 11
+resultado = (resultado * 10) % 11
+
 
 primeiro_digito = resultado if resultado > 9 else 0
 
