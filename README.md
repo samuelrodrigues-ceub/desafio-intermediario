@@ -1,4 +1,4 @@
-# Bem-vindo ao meu portifólio!
+# Bem-vindo ao meu portifólio! 👋
 
 Este repositório é um portifólio feito para o Desafio Intermediário da disciplina virtual "Bootcamp I", com o objetivo de adicionar projetos relevantes para a minha carreira profissional. Espero que goste!
 
